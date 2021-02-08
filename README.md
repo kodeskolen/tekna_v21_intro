@@ -11,9 +11,11 @@ Dette kurset er en kræsjkurs i programmering for lær\-ere som har liten eller 
 I løpet av kurset vil vi gi en kort innføring i hvordan man kan bruke det tekstbaserte programmeringspråket Python som et verktøy i eget klasserom. Grunnet begrenset med tid vil vi ikke prøve å gi en heldekkende innføring i programmering, eller generelle bruksområder. Vi prøver isteden å rette oss inn mot tema som dekkes i matematikken på VGS. Vi vil ha flere oppgaveøkter. Her vil du ha muligheten til å lage dine egne dataprogram for å løse små oppgaver og du kan få hjelp av en av våre flinke undervisere om du står fast.
 
 ## Materiale
-Vi har utviklet to kompendier rettet inn mot dette kurset – et for hver dag. Det første finner du [her](dag1/kompendium.pdf), og dekker temaene variabler, betingelser og løkker. Det andre finner du [her](dag2/kompendium.pdf), og her ser vi på funksjoner og plotting, samt går igjennom et konkret prosjekt for numerisk løsning av ligninger.
+Vi har utviklet to kompendier rettet inn mot dette kurset – et for hver dag. Det første finner du [her](Dag 1/kompendium.pdf), og dekker temaene variabler, betingelser og løkker. Det andre finner du [her](Dag 2/kompendium.pdf), og her ser vi på funksjoner og plotting, samt går igjennom et konkret prosjekt for numerisk løsning av ligninger.
 
-Oppgaver for dag 1 finner du [her](dag1/oppgaver.pdf) – og hvis du blir fort ferdig med disse, er det også lagt ut noen [bonusoppgaver](dag1/bonusoppgaver.pdf) du kan prøve deg på videre.
+Presentasjonen finner dere [her](https://prezi.com/view/FCMJjsBGIXyLxEw6m6rT/).
+
+Oppgaver for dag 1 finner du [her](Dag 1/oppgaver.pdf) – og hvis du blir fort ferdig med disse, er det også lagt ut noen [bonusoppgaver](Dag 1/bonusoppgaver.pdf) du kan prøve deg på videre.
 
 Vi legger til materiale løpende, ettersom kurset holdes, og vi kommer også til å legge ut løsningsforslag for alle oppgavene til slutt.
 
